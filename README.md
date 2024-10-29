@@ -1,0 +1,1 @@
+This Python script generates passwords with customizable length and character sets. Users can include letters, numbers, symbols, and personal characters. It ensures unpredictability through random selection while maintaining strength through character diversity. The function is flexible enough to create both highly secure random passwords and personalized ones.
